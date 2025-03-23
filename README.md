@@ -4,8 +4,8 @@
 - 📖 Estudiante de Ingeniería Audiovisual Computacional en la Universidad Pompeu Fabra.
 - 🏉 Jugador de rugby.
 
-- 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, Assembly
-- 📱 SAP B1 (Service Layer), Android Studio, Windows task, Ktor
+- 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, Assembly, SQL
+- 📱 SAP B1 (Service Layer), Android Studio, Windows task, Ktor, SQL Server, Oracle SQL
 
 - 👷‍♂️ Trabajos en el sector:
   - Seidor: Programador SAP B1, 1.5 años
