@@ -1,7 +1,13 @@
-### Hi there 👋
+### Buenas 👋
 
-- 🔭 I’m currently working on SAP B1 backend with C#
-- 🌱 I’m currently learning Python and C#
-- 📫 How to reach me: rmolinakind3@gmail.com
-- ⚡ Fun fact: I bench 120Kg on bench press.
+- 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (Mención en Machine Learning).
+- 📖 Estudiante de Ingeniería Audiovisual Computacional en la Universidad Pompeu Fabra.
+- 🏉 Jugador de rugby.
 
+- 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, Assembly
+- 📱 SAP B1 (Service Layer), Android Studio, Windows task, Ktor
+
+- 👷‍♂️ Trabajos en el sector:
+  - Seidor: Programador SAP B1, 1.5 años
+
+- 📫 Contáctame: rmolinakind3@gmail.com
