@@ -4,7 +4,7 @@
 - 📖 Estudiante de Ingeniería Audiovisual Computacional en la Universidad Pompeu Fabra.
 - 🏉 Jugador de rugby.
 
-- 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, Assembly, SQL
+- 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, MIPS Assembly, SQL
 - 📱 SAP B1 (Service Layer), Android Studio, Windows task, Ktor, SQL Server, Oracle SQL
 
 - 👷‍♂️ Trabajos en el sector:
