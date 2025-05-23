@@ -2,7 +2,6 @@
 
 - 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (Mención en Machine Learning).
 - 📖 Estudiante de Ingeniería Audiovisual Computacional en la Universidad Pompeu Fabra.
-- 🏉 Jugador de rugby.
 
 - 🧑‍💻 Kotlin, C#, C, Java, Visual Basic, Python, MIPS Assembly, SQL
 - 📱 SAP B1 (Service Layer), Android Studio, Windows task, Ktor, SQL Server, Oracle SQL
